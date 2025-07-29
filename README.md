@@ -1,4 +1,3 @@
-<!-- Banner sencillo (opcional: reemplaza por una imagen propia 1200x300) -->
 <p align="center">
   <img src="https://img.shields.io/badge/S2M-%23-626EF0?style=for-the-badge&label=Samuel%20Garc%C3%ADa%20Zavala&labelColor=4E5CF0&color=3B82F6" alt="S2M Banner" />
 </p>
@@ -84,7 +83,3 @@
   <a href="https://s2mgarcia.com"><img src="https://img.shields.io/badge/Portafolio-4E5CF0?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/SAGZ7"><img src="https://img.shields.io/badge/GitHub-626EF0?style=flat&logo=github&logoColor=white" /></a>
 </p>
-
----
-
-<sub>Paleta: <code>#626EF0</code> · <code>#4E5CF0</code> · <code>#3B82F6</code> · <code>#EDEFFF</code> · <code>#2E3E5C</code></sub>
