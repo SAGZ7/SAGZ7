@@ -22,7 +22,6 @@
 
 ## 🧰 Tech Stack
 <p>
-  <!-- Paleta: primary #626EF0, hover #4E5CF0, accent #3B82F6 -->
   <img src="https://img.shields.io/badge/Kotlin-626EF0?style=flat&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3B82F6?style=flat&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-4E5CF0?style=flat&logo=javascript&logoColor=white" />
